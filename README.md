@@ -1,1 +1,2 @@
-# resurgence
+# Resurgence
+###### In the aftermath of a devastating alien assault, humanity's last surviving colonies slumber deep beneath the ground. Over the centuries, alien technology has transformed the Earth into an Ark-world filled with spectacular locales - and dangerous new lifeforms. In their final waking moments, the human race created the Resurgence protocol to one day reclaim their planet and start life anew.
